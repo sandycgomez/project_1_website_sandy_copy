@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/236x/9d/3c/36/9d3c362b3073f599a1e4e868e76b74d6.jpg");
+}
+@import 'https://fonts.googleapis.com/css?family=Francois+One';
+h1 {
+  text-align: center;
+}
+h1 {
+  font-family: 'Francois One', sans-serif;
+
+}
+h1 {
+  color: black;
+  background-color:	#E9967A;
+  border: 9px solid	#50C878;
+  padding: 80px;
+  margin: 30px;
+  width: 900px;
+}
+p {
+  text-align: center;
+}
+
+p {
+  color: black;
+  background-color: #C9FFE5;
+  border: 5px solid #DE5285;
+  padding: 10px;
+  width: 780px;
+}
